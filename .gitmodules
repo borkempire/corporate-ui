@@ -1,0 +1,3 @@
+[submodule "demo/docs"]
+	path = demo/docs
+	url = https://github.com/scania/corporate-ui-docs
